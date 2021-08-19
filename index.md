@@ -1,3 +1,3 @@
 # devlinuxuser.github.io
-I am sumit
-# are you jay
+This website is of sumit kumar
+Contact me :- devlinuxuser@gmail.com
